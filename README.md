@@ -21,7 +21,7 @@ Because Logic Islands is designed to introduce and teach children how to follow 
 
 ![Right and Wrong](/readme-images/right-wrong-setup.jpg)
 
-**3** Finally place the remaining end map tile, with a treasure token on it, to complete the path. 
+**3** Finally use the remaining end map tile with treasure tokens on it, to complete the path.
 
 ```
 Tip: Using alternative incentives like pieces of cereal,
@@ -38,7 +38,7 @@ Tip: Using alternative incentives like pieces of cereal,
 
 # How to Play:
 
-The Jump, Turn and Straight map tile have corresponding action token. Depending on your child’s grasp of Right Turn and Left Turn you may choose to use the more simple generic Turn action token until they’re able to differentiate between right and left.
+The Jump, Turn and Straight map tile have corresponding action token. Depending on your child’s grasp of right and left turns you may choose to play with the simple universal `Turn` action token.
 
 ![How To Play](/readme-images/how-to-play.jpg)
 
