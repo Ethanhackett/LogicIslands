@@ -1,6 +1,5 @@
 #Logic Islands  - Rules
 
-
 Logic Islands is designed to be a fun way to introduce and develop thinking skills in young kids. The flexible game mechanics allow for the game play to become more challenging as your children’s skills develop.
 
 #In the Box:
@@ -41,7 +40,7 @@ The Jump, Turn and Straight map tile have corresponding action token. Depending 
 
 ```
 Note: The start and end tiles don’t have corresponding action
-      cards because the player starts on one and ends when 
+      cards because the player starts on one and ends when
       they reach the other.*
 ```
 
