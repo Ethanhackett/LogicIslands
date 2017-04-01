@@ -8,7 +8,7 @@ Logic Islands comes with 12 map tiles, 15 action tokens, 3 treasures tokens, and
 ![Whats In The Box](/readme-images/in-the-box.jpg)
 
 # Object of the Game:
-The primary object of the game is to get the wooden figure from the start tile to the pile of treasure on the end tile by passing through a combination of, Turns, Jumps and Straight map tiles.
+The primary object of the game is to get the wooden figure from the start tile to the pile of treasure on the end tile by passing through a combination of Turns, Jumps and Straight map tiles.
 
 # Setup:
 Because Logic Islands is designed to introduce and teach children how to follow logical order and solve problems it’s important to find the right balance of challenge and fun that best fits your child.
@@ -21,7 +21,12 @@ Because Logic Islands is designed to introduce and teach children how to follow 
 
 ![Right and Wrong](/readme-images/right-wrong-setup.jpg)
 
-**3** Finally place the remaining end tile at the end with the treasure a treasure token on it.
+**3** Finally place the remaining end map tile, with a treasure tokens on it, at the end of the path to complete the path. 
+
+```
+Tip: Using alternative incentives like pieces of cereal,
+     chocolate chips can be a fun way to mix up the game.
+```
 
 **Simple Path Example:**
 
