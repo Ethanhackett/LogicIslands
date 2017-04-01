@@ -117,6 +117,6 @@ The sequence of `Straight` `Straight` `Jump` can be moved to the `Blue Star` Act
 ![Portal Usage](/readme-images/with-actions.jpg)
 
 ```
-Note: You could even use one action group inside
-      of another but beware of creating infinite loops!
+Note: You can use one action group inside another
+      but beware of creating infinite loops!
 ```
