@@ -21,7 +21,7 @@ Because Logic Islands is designed to introduce and teach children how to follow 
 
 ![Right and Wrong](/readme-images/right-wrong-setup.jpg)
 
-**3** Finally place the remaining end map tile, with a treasure tokens on it, at the end of the path to complete the path. 
+**3** Finally place the remaining end map tile, with a treasure token on it, to complete the path. 
 
 ```
 Tip: Using alternative incentives like pieces of cereal,
