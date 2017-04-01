@@ -80,3 +80,40 @@ Additionally as you use the corner pieces keep in mind it can be challenging for
 ## Reverse Roles
 
 You can also reverse roles and have the kids create the map and follow the action tokens you choose. This helps with following directions and reading instructions.
+
+
+---
+
+# Logic Islands - Portals, Beaches & Action Groups Expansion
+
+The Logic Islands Expansion adds two new map tiles `Portals` and `Beaches` along with their corresponding `Teleport` and `Swim` action cards.
+
+## New Map Tiles
+
+![Portals And Beaches](/readme-images/expantion.jpg)
+
+The `Beaches` and their `Swim` action tokens work just like `Jump` and `Straight` from the core game.
+
+The `Portals` and their `Teleport` action tokens allow you to create a map that isn't one continuous Island. The portals come in colored pairs and must be used together. This way as the character moves across the islands they jump from `Red Portal` to `Red Portal`, `Teal Portal` to `Teal Portal` and `Purple Portal` to `Purple Portal`.
+
+![Portal Usage](/readme-images/portal-usage.jpg)
+
+The expansion also includes an additional `Straight`, `Turn` and `Jump` map tile and their accompanying action tokens.
+
+## Action Groups
+
+Action groups add a whole new set of challenges to the game designed to reduce redundancy and maximize efficiency. Using the `Star`, `Triangle` and `Circle` Action Groups you can re-use sequences of tiles.
+
+To use the action groups first choose which action group you'd like to use the larger rectangle `Green Circle`, `Blue Star` and `Purple Triangle` action group definition tiles. Then place the sequence of normal action tokens adjacent to it. Use the corresponding smaller square action token to then represent that sequence in your normal action sequence.
+
+![Portal Usage](/readme-images/action-group-map.jpg)
+
+Normally you would solve this combination of map tiles by using the following action tiles.
+
+![Portal Usage](/readme-images/without-actions.jpg)
+
+Now you can move the sequence of `Straight` `Straight` `Jump` to the `Blue Star` Action Group definition. Now in your normal sequence any time you use the square `Blue Star` action token it will represent `Straight` `Straight` `Jump`.
+
+![Portal Usage](/readme-images/with-actions.jpg)
+
+You could even use one action group inside of another but beware of creating infinite loops!
