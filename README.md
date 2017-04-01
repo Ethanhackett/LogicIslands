@@ -5,7 +5,7 @@ Logic Islands is designed to be a fun way to introduce and develop thinking skil
 # In the Box:
 Logic Islands comes with 12 map tiles, 15 action tokens, 3 treasures tokens, and 3 wooden figurines.
 
-![Whats In The Box](/in-the-box.jpg)
+![Whats In The Box](/readme-images/in-the-box.jpg)
 
 # Object of the Game:
 The primary object of the game is to get the wooden figure from the start tile to the pile of treasure on the end tile by passing through a combination of, Turns, Jumps and Straight map tiles.
@@ -15,27 +15,27 @@ Because Logic Islands is designed to introduce and teach children how to follow 
 
 **1** Pick one of the two end tiles and place a wooden figurine on it.
 
-![Starting](/start.jpg)
+![Starting](/readme-images/start.jpg)
 
 **2** Next, choose as many `Turns`, `Jumps` or `Straight` map tiles that you’d like create a continual path matching each side with connecting paths.
 
-![Right and Wrong](/right-wrong-setup.jpg)
+![Right and Wrong](/readme-images/right-wrong-setup.jpg)
 
 **3** Finally place the remaining end tile at the end with the treasure a treasure token on it.
 
 **Simple Path Example:**
 
-![Simple Setup](/setup.jpg)
+![Simple Setup](/readme-images/setup.jpg)
 
 **Complex Path Example:**
 
-![Complex Setup](/complex.jpg)
+![Complex Setup](/readme-images/complex.jpg)
 
 # How to Play:
 
 The Jump, Turn and Straight map tile have corresponding action token. Depending on your child’s grasp of Right Turn and Left Turn you may choose to use the more simple generic Turn action token until they’re able to differentiate between right and left.
 
-![How To Play](/how-to-play.jpg)
+![How To Play](/readme-images/how-to-play.jpg)
 
 ```
 Note: The start and end tiles don’t have corresponding action
@@ -45,7 +45,7 @@ Note: The start and end tiles don’t have corresponding action
 
 Now that you’ve created your map, the player picks from the available action tokens and lines them up in the order they think the wooden character needs to progress to reach the treasure.
 
-![Action Cards](/action-cards.jpg)
+![Action Cards](/readme-images/action-cards.jpg)
 
 Once they’ve selected all their action tokens, move the wood character according to order of their action tokens.
 
