@@ -112,8 +112,11 @@ Normally you would solve this combination of map tiles by using the following ac
 
 ![Portal Usage](/readme-images/without-actions.jpg)
 
-Now you can move the sequence of `Straight` `Straight` `Jump` to the `Blue Star` Action Group definition. Now in your normal sequence any time you use the square `Blue Star` action token it will represent `Straight` `Straight` `Jump`.
+The sequence of `Straight` `Straight` `Jump` can be moved to the `Blue Star` Action Group definition. In your normal sequence any time you would have used `Straight` `Straight` `Jump` you can simply use the `Blue Star` action token instead.
 
 ![Portal Usage](/readme-images/with-actions.jpg)
 
-You could even use one action group inside of another but beware of creating infinite loops!
+```
+Note: You could even use one action group inside
+      of another but beware of creating infinite loops!
+```
