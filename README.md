@@ -15,7 +15,7 @@ Because Logic Islands is designed to introduce and teach children how to follow 
 
 **1** Pick one of the two end tiles and place a wooden figurine on it.
 
-![Starting](/readme-images/start.jpg | width=250)
+![Starting](/readme-images/start.jpg)
 
 **2** Next, choose as many `Turns`, `Jumps` or `Straight` map tiles that you’d like create a continual path matching each side with connecting paths.
 
@@ -30,7 +30,7 @@ Tip: Using alternative incentives like pieces of cereal,
 
 **Simple Path Example:**
 
-![Simple Setup](/readme-images/setup.jpg | width=700)
+![Simple Setup](/readme-images/setup.jpg)
 
 **Complex Path Example:**
 
