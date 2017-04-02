@@ -1,3 +1,11 @@
+# Download / Print / Cut / Test
+
+1. Download one of the two PDF files [COLOR - Print & Play](/PRINT-ME---COLOR.pdf) or [BLACK & WHITE - Print & Play](/PRINT-ME---B&W.pdf)
+2. Print the pdf
+3. Cut all the things
+4. Playtest, have fun, then provide feedback
+
+
 # Logic Islands  - Rules
 
 Logic Islands is designed to be a fun way to introduce and develop thinking skills in young kids. The flexible game mechanics allow for the game play to become more challenging as your children’s skills develop.
