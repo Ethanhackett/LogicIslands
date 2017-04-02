@@ -1,3 +1,5 @@
+![Logic Islands](/readme-images/splash.jpg)
+
 # Download / Print / Cut / Test
 
 1. Download one of the two PDF files [COLOR - Print & Play](/PRINT-ME---COLOR.pdf) or [BLACK & WHITE - Print & Play](/PRINT-ME---B&W.pdf)
