@@ -1,4 +1,4 @@
-![Logic Islands](/readme-images/splash.jpg)
+![Logic Islands](/readme-images/splash-alt.jpg)
 
 # Download / Print / Cut / Test
 
