@@ -6,7 +6,7 @@
 2. Print the pdf
 3. Cut all the things
 4. Playtest, have fun, then provide feedback
-
+5. [Provide feedback](https://goo.gl/forms/FoB6NUttXAgRTfEh2) 
 
 # Logic Islands  - Rules
 
